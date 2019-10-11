@@ -4,9 +4,24 @@ title: Home
 
 <img src="https://faculty.sites.iastate.edu/yumouqiu/files/styles/profile_picture/public/2018-11/Yumou_1.JPG?itok=YznaJy5l" style="max-width:25%;min-width:40px;float:right;padding-left:10px;" alt="Yumou Qiu's picture" />
 
-# HUGO XMIN  aaa
+**Yumou Qiu** is an assistant professor in Statistics at Iowa State University.
 
-## _Keep it simple, but not simpler_
+**Contact information**  
+[Department of Statistics](https://www.stat.iastate.edu)  							     
+Iowa State University 						
+Ames, IA, 50011, USA  
+Email: <yumouqiu@iastate.edu>
 
-**XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
+### Education
 
+2010 – 2014	[Iowa State University](https://www.iastate.edu)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in Statistics  
+2008 – 2010	[Guanghua School of Management](http://en.gsm.pku.edu.cn), [Peking University](http://english.pku.edu.cn)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.A. in Economics, specialized in Statistics  
+2004 – 2008	[School of Mathematical Sciences](http://math.english.bnu.edu.cn), [Beijing Normal University](https://english.bnu.edu.cn)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in Mathematics, 2008
+
+### Experience
+
+2018 – present Department of Statistics, Iowa State University,  Assistant Professor  
+2014 – 2018	&nbsp;&nbsp; Department of Statistics, University of Nebraska Lincoln,   Assistant Professor

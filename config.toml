@@ -17,8 +17,8 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Research"
+    url = "/research/"
     weight = 2
 [[menu.main]]
     name = "Publication"
@@ -28,6 +28,10 @@ footnotereturnlinkcontents = "↩"
     name = "Teaching"
     url = "/teaching/"
     weight = 4
+[[menu.main]]
+    name = "Presentation"
+    url = "/presentation/"
+    weight = 5
 
 [params]
     description = "Yumou Qiu's website."
