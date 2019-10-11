@@ -21,6 +21,7 @@ slug: publication
 
 - Qiu, Y. and Chen, S. (2012). Test for Bandedness of High-dimensional Covariance Matrices and Bandwidth Estimation. *The Annals of Statistics*, **40** 1285-1314.
 
+Complete list at [Google Scholar](https://scholar.google.com/citations?user=-dudT7IAAAAJ&hl=en)
 
 ## Manuscript
 
