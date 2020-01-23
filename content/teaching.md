@@ -7,7 +7,7 @@ slug: teaching
 <br>
 Topics include introduction to probability, random variables and distribution functions; sampling distributions; theory of estimation; theory of inference; use of R statistical package for simulation and data analysis.
 
-- **Stat 501**: *Multivariate Statistical Methods*, Spring 2019 (ISU).
+- [**Stat 501**](https://yumouqiu.github.io/Multivariate-Statistical-Methods/): *Multivariate Statistical Methods*, Spring 2019 (ISU).
 <br>
 Topics include multivariate normal distribution; simultaneous analysis of multiple responses; MANOVA; high dimensional regression; PCA; factor analysis; classification methods. 
 
