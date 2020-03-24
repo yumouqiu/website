@@ -5,7 +5,7 @@ slug: publication
 
 ## Selected publication
 
-- Liang, Z., Qiu, Y. and Schnable, J. (2020). Genome-phenome Wide Association in Maize and Arabidopsis Identifies a Common Molecular and Evolutionary Signature. *Molecular Plant*. [Code](https://github.com/yumouqiu/PlantSegmentationCode)
+- Liang, Z., Qiu, Y. and Schnable, J. (2020). Genome-phenome Wide Association in Maize and Arabidopsis Identifies a Common Molecular and Evolutionary Signature. *Molecular Plant*. [Code](https://github.com/shanwai1234/GPWAS)
 
 - Adams, J., Qiu, Y., Xu, Y. and Schnable, J. (2020). Plant Segmentation by Deep Neural Nets. *The Plant Phenome*. [Code](https://github.com/yumouqiu/PlantSegmentationCode)
 
