@@ -33,4 +33,6 @@ Email: <yumouqiu@iastate.edu>
 [March 12](https://yumouqiu.github.io/COVID-19/reports/Mar%2012.pdf)  
 [March 15](https://yumouqiu.github.io/COVID-19/reports/Mar%2015.pdf)  
 [March 19](https://yumouqiu.github.io/COVID-19/reports/Mar%2019.pdf)  
-[March 29](https://yumouqiu.github.io/COVID-19/reports/Mar%2029.pdf)  
+[April 23](https://yumouqiu.github.io/COVID-19/reports/Apr%2023.pdf)  
+
+[**Estimation of Reproduction Number and Prediction for COVID-19 Epidemic**](https://yumouqiu.shinyapps.io/covid-predict/)
