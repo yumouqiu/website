@@ -5,6 +5,18 @@ slug: presentation
 
 ## Conference invited
 
+- A Pipeline for Analyzing High-throughput Plant Phenotyping Data, invited talk at The Plant Phenomics webinar, May, 2021.
+
+- Sharp Optimality for High Dimensional Covariance Testing, invited talk at CFE-CMStatistics 2020 (virtual), Dec, 2020.
+
+- Sharp Optimality for High Dimensional Covariance Testing, invited talk at The ICSA 2020 Applied Statistics Symposium (virtual), Dec, 2020.
+
+- Simple Plant Image Segmentation by Neural Network, invited talk at The Plant Phenome Journal (TPPJ) webinar, February, 2020.
+
+- Statistical Learning for High-throughput Plant Phenotyping, the 11th ICSA International Conference, Hangzhou, China, December, 2019.
+
+- Statistical Learning for High-throughput Plant Phenotyping, Network Analysis and Deep Learning Workshop 2019, Peking University, Beijing, China, December, 2019.
+
 - Optimal Thresholding Test for High Dimensional Covariance Matrices, invited talk at IMS-China International Conference on Statistics and Probability, Dalian, China, July, 2019.
 
 - Estimating Multi-level Partial Correlation Graphs, invited talk at 2019 ICSA Applied Statistics Symposium, Raleigh, June 2019.
@@ -40,6 +52,10 @@ slug: presentation
 - Test for Bandedness of High-dimensional Covariance Matrices, invited talk at IMS-China International Conference on Statistics and Probability, Xi An, China, July, 2011.
 
 ## Department invited:
+
+-	Residual Refitting Inference for High-dimensional regression, invited talk at Department of Economy, UW, Seattle, April, 2021.
+
+- Comparing Containment Measures by Epidemiological Effects of COVID-19, invited talk at Baker Center seminar series on SARS-CoV-2/COVID-19 (virtual), ISU, Nov 2020.
 
 - Large Scale Inference for Correlation and Partial Correlation, invited talk at Theoretical and Applied Data Science Lunch-n-Learn, ISU, Oct 2019.
 
