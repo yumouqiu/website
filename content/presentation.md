@@ -51,7 +51,7 @@ slug: presentation
 
 - Test for Bandedness of High-dimensional Covariance Matrices, invited talk at IMS-China International Conference on Statistics and Probability, Xi An, China, July, 2011.
 
-## Department invited:
+## Department invited: 
 
 -	Residual Refitting Inference for High-dimensional regression, invited talk at Department of Economy, UW, Seattle, April, 2021.
 
