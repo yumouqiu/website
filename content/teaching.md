@@ -11,15 +11,15 @@ Theoretical course introducing both classical and high dimensional multivariate 
 <br>
 Statistical and graphical methods for analyzing multivariate data; organizing and summarizing analyses of multivariate data; principal components and factor analysis; classification; clustering; R statistical software package and the use of Rstudio to create reports (RMarkdown and GGplot).
 
-- [**STAT 347**](https://yumouqiu.github.io/stat347/): *Probability and Statistical Theory for Data Science*, Fall 2019 (ISU).
+- **STAT 347**: *Probability and Statistical Theory for Data Science*, Fall 2019 (ISU).
 <br>
 Topics include introduction to probability, random variables and distribution functions; sampling distributions; theory of estimation; theory of inference; use of R statistical package for simulation and data analysis.
 
-- [**STAT 501**](https://yumouqiu.github.io/Multivariate-Statistical-Methods/): *Multivariate Statistical Methods*, Spring 2019, Spring 2020 (ISU).
+- **STAT 501**: *Multivariate Statistical Methods*, Spring 2019, Spring 2020 (ISU).
 <br>
 Topics include multivariate normal distribution; simultaneous analysis of multiple responses; MANOVA; high dimensional regression; PCA; factor analysis; classification methods. 
 
-- [**DS 202**](https://yumouqiu.github.io/Data-Science-202-ISU/): *Data Acquisition and Data Exploratory Analysis*, Fall 2018 (ISU).
+- [**DS 202**](https://yumouqiu.github.io/DS202-Spring2022/): *Data Acquisition and Data Exploratory Analysis*, Fall 2018 (ISU).
 <br>
 Topics include Data acquisition, web-scraping, types of data displays, numerical and visual summaries of data, strategies and techniques for data visualizations, pipelines for data analysis.
 

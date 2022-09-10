@@ -16,14 +16,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/covid-19/</guid>
-      <description>Brief on COVID-19 Epidemic
- March 3 2020
+      <description> Brief on COVID-19 Pandemic  March 3 2020
  March 5 2020
  March 12 2020
  March 15 2020
  March 19 2020
  April 23 2020
-  Estimation of Reproduction Number and Prediction for COVID-19 Epidemic</description>
+  Shiny Apps Estimation of Reproduction Number and Prediction for COVID-19 Epidemic
+Vaccine effects </description>
     </item>
     
     <item>
@@ -32,10 +32,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/presentation/</guid>
-      <description>Conference invited  Optimal Thresholding Test for High Dimensional Covariance Matrices, invited talk at IMS-China International Conference on Statistics and Probability, Dalian, China, July, 2019.
- Estimating Multi-level Partial Correlation Graphs, invited talk at 2019 ICSA Applied Statistics Symposium, Raleigh, June 2019.
- Thresholding Inference for Covariance Learning, 2018 ICSA China Conference with the Focus on Data Science, Qingdao, China, July 2-5, 2018.
- Thresholding Inference for Covariance Learning, The 8th International Forum on Statistics, Renmin University of China, Beijing, China, July 1-2, 2018.</description>
+      <description>Conference invited  A Pipeline for Analyzing High-throughput Plant Phenotyping Data, invited talk at The Plant Phenomics webinar, May, 2021.
+ Sharp Optimality for High Dimensional Covariance Testing, invited talk at CFE-CMStatistics 2020 (virtual), Dec, 2020.
+ Sharp Optimality for High Dimensional Covariance Testing, invited talk at The ICSA 2020 Applied Statistics Symposium (virtual), Dec, 2020.
+ Simple Plant Image Segmentation by Neural Network, invited talk at The Plant Phenome Journal (TPPJ) webinar, February, 2020.</description>
     </item>
     
     <item>
@@ -44,10 +44,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publication/</guid>
-      <description>Selected publication  Liang, Z., Qiu, Y. and Schnable, J. (2020). Genome-phenome Wide Association in Maize and Arabidopsis Identifies a Common Molecular and Evolutionary Signature. Molecular Plant. Code
- Adams, J., Qiu, Y., Xu, Y. and Schnable, J. (2020). Plant Segmentation by Deep Neural Nets. The Plant Phenome. Code
- Qiu, Y. and Liyanage, J. (2019). Threshold Selection for Covariance Estimation. Biometrics, 75 985-905. Code
- Chang, J., Qiu, Y.</description>
+      <description>Selected publication Statistical metholody
+ Qiu, Y. and Zhou, X. H. (2021). Inference on Multi-level Brain Connectivities based on fMRI Data. The Journal of the American Statistical Association: Theory and Methods.
+ Qiu, Y., Tao, J. and Zhou, X. H. (2021). Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates. Journal of the Royal Statistical Society: Series B, 83 1016-1043.
+ Li, Y., Xu, Y. and Qiu, Y.</description>
     </item>
     
     <item>
@@ -70,9 +70,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching/</guid>
-      <description>Stat 347: Probability and Statistical Theory for Data Science, Fall 2019 (ISU). Topics include introduction to probability, random variables and distribution functions; sampling distributions; theory of estimation; theory of inference; use of R statistical package for simulation and data analysis.
- Stat 501: Multivariate Statistical Methods, Spring 2019 (ISU). Topics include multivariate normal distribution; simultaneous analysis of multiple responses; MANOVA; high dimensional regression; PCA; factor analysis; classification methods.
- DS 202: Data Acquisition and Data Exploratory Analysis, Fall 2018 (ISU).</description>
+      <description>STAT 647: Advanced Multivariate Analysis, Spring 2021 (ISU). Theoretical course introducing both classical and high dimensional multivariate methods and their theories. The contents include multivariate random vectors and its distribution, dependence measures and copula, Wishart distribution, concentration Inequality, random matrix theory, Hotelling’s test, high-dimensional inference for mean and covariance, signal detection and identification.
+ STAT 475 / 575: Introduction to Multivariate Data Analysis, Fall 2020, Fall 2021 (ISU). Statistical and graphical methods for analyzing multivariate data; organizing and summarizing analyses of multivariate data; principal components and factor analysis; classification; clustering; R statistical software package and the use of Rstudio to create reports (RMarkdown and GGplot).</description>
     </item>
     
   </channel>

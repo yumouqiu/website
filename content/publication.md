@@ -1,31 +1,32 @@
 ---
-title: Publication and manuscript
+title: "Publication and manuscript"
 slug: publication
+output: pdf_document
 ---
 
 ## Selected publication
 
 **Statistical metholody**
 
-- Qiu, Y. and Zhou, X. H. (2021). Inference on Multi-level Brain Connectivities based on fMRI Data. *The Journal of the American Statistical Association: Theory and Methods*.
+- Qiu, Y. and Zhou, X. H. (2021). [Inference on Multi-level Brain Connectivities based on fMRI Data.](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1917417) *The Journal of the American Statistical Association: Theory and Methods*.
 
-- Qiu, Y., Tao, J. and Zhou, X. H. (2021). Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates. *Journal of the Royal Statistical Society: Series B*.
+- Qiu, Y., Tao, J. and Zhou, X. H. (2021). [Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates.](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12469) *Journal of the Royal Statistical Society: Series B*, **83** 1016-1043.
 
-- Li, Y., Xu, Y. and Qiu, Y. (2021). From multivariate to functional data analysis: fundamentals, recent developments, and emerging areas. *Journal of Multivariate Analysis*.
+- Li, Y., Xu, Y. and Qiu, Y. (2021). [From multivariate to functional data analysis: fundamentals, recent developments, and emerging areas.](https://www.sciencedirect.com/science/article/pii/S0047259X21000841) *Journal of Multivariate Analysis*, **188** 104806.
 
-- Xu, Y., Li, Y. and Qiu, Y. (2021). Growth dynamics and heritability for plant high-throughput phenotyping studies using hierarchical functional data analysis. *Biometrical Journal*.
+- Xu, Y., Li, Y. and Qiu, Y. (2021). [Growth dynamics and heritability for plant high-throughput phenotyping studies using hierarchical functional data analysis.](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.202000315) *Biometrical Journal*, **63** 1325-1341.
 
-- Qiu, Y. and Zhou, X. H. (2020). Estimating c-Level Partial Correlation Graphs with Application to Brain Imaging. *Biostatistics*, **21** 641-658. [Code](https://github.com/yumouqiu/Estimating-c-level-partial-correlation)
+- Qiu, Y. and Zhou, X. H. (2020). [Estimating c-Level Partial Correlation Graphs with Application to Brain Imaging.](https://academic.oup.com/biostatistics/article-abstract/21/4/641/5268841) *Biostatistics*, **21** 641-658. [Code](https://github.com/yumouqiu/Estimating-c-level-partial-correlation)
 
-- Qiu, Y. and Liyanage, J. (2019). Threshold Selection for Covariance Estimation. *Biometrics*, **75** 985-905. [Code](https://github.com/yumouqiu/Threshold-Selection)
+- Qiu, Y. and Liyanage, J. (2019). [Threshold Selection for Covariance Estimation.](https://onlinelibrary.wiley.com/doi/10.1111/biom.13048) *Biometrics*, **75** 985-905. [Code](https://github.com/yumouqiu/Threshold-Selection)
 
-- Chang, J., Qiu, Y., Yao, Q. and Zou, T. (2018). Confidence regions for entries of a large precision matrix. *Journal of Econometrics*, **206** 57-82.
+- Chang, J., Qiu, Y., Yao, Q. and Zou, T. (2018). [Confidence regions for entries of a large precision matrix.](https://www.sciencedirect.com/science/article/pii/S0304407618300782) *Journal of Econometrics*, **206** 57-82.
 
-- Qiu, Y., Chen, S. and Nettleton, D. (2018). Detecting Rare and Faint Signals via Thresholding Maximum Likelihood Estimators. *The Annals of Statistics*, **46** 895-923.
+- Qiu, Y., Chen, S. and Nettleton, D. (2018). [Detecting Rare and Faint Signals via Thresholding Maximum Likelihood Estimators.](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-2/Detecting-rare-and-faint-signals-via-thresholding-maximum-likelihood-estimators/10.1214/17-AOS1574.full) *The Annals of Statistics*, **46** 895-923.
 
-- Qiu, Y. and Chen, S. (2015). Band Width Selection for High-dimensional Covariance Matrix Estimation. *The Journal of the American Statistical Association: Theory and Methods*, **110** 1160-1174. [Code](https://www.songxichen.com/index.php/Publication/view/id/11)
+- Qiu, Y. and Chen, S. (2015). [Band Width Selection for High-dimensional Covariance Matrix Estimation.](https://www.tandfonline.com/doi/abs/10.1080/01621459.2014.950375) *The Journal of the American Statistical Association: Theory and Methods*, **110** 1160-1174. [Code](https://www.songxichen.com/index.php/Publication/view/id/11)
 
-- Qiu, Y. and Chen, S. (2012). Test for Bandedness of High-dimensional Covariance Matrices and Bandwidth Estimation. *The Annals of Statistics*, **40** 1285-1314. [Code](https://www.songxichen.com/index.php/Publication/view/id/19)
+- Qiu, Y. and Chen, S. (2012). [Test for Bandedness of High-dimensional Covariance Matrices and Bandwidth Estimation.](https://projecteuclid.org/journals/annals-of-statistics/volume-40/issue-3/Test-for-bandedness-of-high-dimensional-covariance-matrices-and-bandwidth/10.1214/12-AOS1002.full) *The Annals of Statistics*, **40** 1285-1314. [Code](https://www.songxichen.com/index.php/Publication/view/id/19)
 
 
 **Plant science**

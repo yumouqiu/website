@@ -3,7 +3,7 @@ title: COVID-19
 slug: COVID-19
 ---
 
-## Brief on COVID-19 Epidemic
+## Brief on COVID-19 Pandemic
 
 - [March 3 2020](https://yumouqiu.github.io/COVID-19/reports/Mar%203.pdf)  
 - [March 5 2020](https://yumouqiu.github.io/COVID-19/reports/Mar%205.pdf)  
@@ -15,3 +15,6 @@ slug: COVID-19
 ## Shiny Apps
 
 [**Estimation of Reproduction Number and Prediction for COVID-19 Epidemic**](https://yumouqiu.shinyapps.io/covid-predict/)
+
+## Vaccine effects
+

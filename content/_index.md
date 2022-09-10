@@ -1,10 +1,10 @@
 ---
-title: Home
+title: "Home"
 ---
 
 <img src="https://faculty.sites.iastate.edu/yumouqiu/files/styles/profile_picture/public/2018-11/Yumou_1.JPG?itok=YznaJy5l" style="max-width:25%;min-width:40px;float:right;padding-left:10px;" alt="Yumou Qiu's picture" />
 
-**Yumou Qiu** is an assistant professor in Statistics at Iowa State University.
+**Yumou Qiu** is an associate  professor in Statistics at Iowa State University.
 
 **Contact information**  
 [Department of Statistics](https://www.stat.iastate.edu)  							     
@@ -23,5 +23,6 @@ Email: <yumouqiu@iastate.edu>
 
 ### Experience
 
-2018 – present Department of Statistics, Iowa State University,  Assistant Professor  
+2022 – present  Department of Statistics, Iowa State University,  Associate Professor  
+2018 – 2022 &nbsp;&nbsp; Department of Statistics, Iowa State University,  Assistant Professor  
 2014 – 2018	&nbsp;&nbsp; Department of Statistics, University of Nebraska Lincoln,   Assistant Professor
