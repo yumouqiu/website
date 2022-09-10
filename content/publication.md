@@ -24,7 +24,7 @@ output: pdf_document
 
 - Qiu, Y. and Liyanage, J. (2019). [Threshold Selection for Covariance Estimation](https://onlinelibrary.wiley.com/doi/10.1111/biom.13048). *Biometrics*, **75** 985-905. [Code](https://github.com/yumouqiu/Threshold-Selection)
 
-- Chang, J., Qiu, Y., Yao, Q. and Zou, T. (2018). [Confidence regions for entries of a large precision matrix](https://www.sciencedirect.com/science/article/pii/S0304407618300782). *Journal of Econometrics*, **206** 57-82.
+- Chang, J., Qiu, Y., Yao, Q. and Zou, T. (2018). [Confidence regions for entries of a large precision matrix](https://www.sciencedirect.com/science/article/pii/S0304407618300782). *Journal of Econometrics*, **206** 57-82. [Code](https://github.com/yumouqiu/Gaussian-approximation-precision-matrix)
 
 - Qiu, Y., Chen, S. and Nettleton, D. (2018). [Detecting Rare and Faint Signals via Thresholding Maximum Likelihood Estimators](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-2/Detecting-rare-and-faint-signals-via-thresholding-maximum-likelihood-estimators/10.1214/17-AOS1574.full). *The Annals of Statistics*, **46** 895-923.
 
