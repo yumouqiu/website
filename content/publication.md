@@ -10,11 +10,11 @@ output: pdf_document
 
 - Chen, S. X., Guo, B. and Qiu, Y. (2022). Global Test and Signal Identification for Two-sample Covariances via Multi-level Thresholding. *Journal of Econometrics*.
 
-- Hu, H. and Qiu, Y. (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*.
+- Hu, H. and Qiu, Y. (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*. [Code](https://github.com/yumouqiu/RRNR)
 
-- Qiu, Y. and Zhou, X. H. (2021). [Inference on Multi-level Brain Connectivities based on fMRI Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1917417). *The Journal of the American Statistical Association: Theory and Methods*.
+- Qiu, Y. and Zhou, X. H. (2021). [Inference on Multi-level Brain Connectivities based on fMRI Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1917417). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://github.com/yumouqiu/multi-level-partial-correlation)
 
-- Qiu, Y., Tao, J. and Zhou, X. H. (2021). [Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12469). *Journal of the Royal Statistical Society: Series B*, **83** 1016-1043.
+- Qiu, Y., Tao, J. and Zhou, X. H. (2021). [Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12469). *Journal of the Royal Statistical Society: Series B*, **83** 1016-1043. [Code](https://github.com/yumouqiu/HD-LCSTE)
 
 - Li, Y., Xu, Y. and Qiu, Y. (2021). [From multivariate to functional data analysis: fundamentals, recent developments, and emerging areas](https://www.sciencedirect.com/science/article/pii/S0047259X21000841). *Journal of Multivariate Analysis*, **188** 104806.
 
