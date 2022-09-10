@@ -16,14 +16,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/covid-19/</guid>
-      <description> Brief on COVID-19 Pandemic  March 3 2020
+      <description>Brief on COVID-19 Pandemic  March 3 2020
  March 5 2020
  March 12 2020
  March 15 2020
  March 19 2020
  April 23 2020
   Shiny Apps Estimation of Reproduction Number and Prediction for COVID-19 Epidemic
-Vaccine effects </description>
+Vaccine effects The manuscript Real-World COVID-19 Vaccine Protection Rates against Infection in the Delta and Omicron Eras (by Zhu, Y., Gu, J., Qiu, Y. and Chen, S. X.) estimates the real-world protection rates of vaccination (VPRs) against the SARS-Cov-2 infection.</description>
     </item>
     
     <item>
@@ -45,9 +45,9 @@ Vaccine effects </description>
       
       <guid>/publication/</guid>
       <description>Selected publication Statistical metholody
- Qiu, Y. and Zhou, X. H. (2021). Inference on Multi-level Brain Connectivities based on fMRI Data. The Journal of the American Statistical Association: Theory and Methods.
- Qiu, Y., Tao, J. and Zhou, X. H. (2021). Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates. Journal of the Royal Statistical Society: Series B, 83 1016-1043.
- Li, Y., Xu, Y. and Qiu, Y.</description>
+ Chen, S. X., Guo, B. and Qiu, Y. (2022). Global Test and Signal Identification for Two-sample Covariances via Multi-level Thresholding. Journal of Econometrics.
+ Hu, H. and Qiu, Y. (2022). Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression. Biometrics.
+ Qiu, Y. and Zhou, X. H. (2021). Inference on Multi-level Brain Connectivities based on fMRI Data. The Journal of the American Statistical Association: Theory and Methods.</description>
     </item>
     
     <item>
@@ -56,11 +56,12 @@ Vaccine effects </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description> Inference on large covariance and precision matrices
- High-dimensional statistical inference and applications in genetic analysis
- Statistical analysis for brain imaging
+      <description> High-dimensional data analysis&amp;ndash;methods and theories
+ Inference on large covariance and precision matrices
  Causal inference
- High-throughput plant phenotying
+ Association studies for genotype and phenotype
+ Computation and analysis pipeline for high-throughput phenotyping
+ Epidemiological models for COVID-19
   </description>
     </item>
     

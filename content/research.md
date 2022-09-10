@@ -2,15 +2,17 @@
 title: Research interest
 ---
 
+- High-dimensional data analysis--methods and theories 
+
 - Inference on large covariance and precision matrices 
-
-- High-dimensional statistical inference and applications in genetic analysis
-
-- Statistical analysis for brain imaging
 
 - Causal inference
 
-- High-throughput plant phenotying
+- Association studies for genotype and phenotype
+
+- Computation and analysis pipeline for high-throughput phenotyping
+
+- Epidemiological models for COVID-19
 
 
 <!--
