@@ -28,9 +28,9 @@ output: pdf_document
 
 - Qiu, Y., Chen, S. and Nettleton, D. (2018). [Detecting Rare and Faint Signals via Thresholding Maximum Likelihood Estimators](https://projecteuclid.org/journals/annals-of-statistics/volume-46/issue-2/Detecting-rare-and-faint-signals-via-thresholding-maximum-likelihood-estimators/10.1214/17-AOS1574.full). *The Annals of Statistics*, **46** 895-923.
 
-- Qiu, Y. and Chen, S. (2015). [Band Width Selection for High-dimensional Covariance Matrix Estimation](https://www.tandfonline.com/doi/abs/10.1080/01621459.2014.950375). *The Journal of the American Statistical Association: Theory and Methods*, **110** 1160-1174. [Code](https://www.songxichen.com/index.php/Publication/view/id/11)
+- Qiu, Y. and Chen, S. (2015). [Band Width Selection for High-dimensional Covariance Matrix Estimation](https://www.tandfonline.com/doi/abs/10.1080/01621459.2014.950375). *The Journal of the American Statistical Association: Theory and Methods*, **110** 1160-1174. [Code and "bandcov" R package](https://github.com/yumouqiu/bandcov)
 
-- Qiu, Y. and Chen, S. (2012). [Test for Bandedness of High-dimensional Covariance Matrices and Bandwidth Estimation](https://projecteuclid.org/journals/annals-of-statistics/volume-40/issue-3/Test-for-bandedness-of-high-dimensional-covariance-matrices-and-bandwidth/10.1214/12-AOS1002.full). *The Annals of Statistics*, **40** 1285-1314. [Code](https://www.songxichen.com/index.php/Publication/view/id/19)
+- Qiu, Y. and Chen, S. (2012). [Test for Bandedness of High-dimensional Covariance Matrices and Bandwidth Estimation](https://projecteuclid.org/journals/annals-of-statistics/volume-40/issue-3/Test-for-bandedness-of-high-dimensional-covariance-matrices-and-bandwidth/10.1214/12-AOS1002.full). *The Annals of Statistics*, **40** 1285-1314. [Matlab code](https://www.songxichen.com/index.php/Publication/view/id/19), ["bandcov" R package](https://github.com/yumouqiu/bandcov)
 
 
 **Plant science**
