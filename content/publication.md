@@ -8,7 +8,7 @@ output: pdf_document
 
 **Statistical metholody**
 
-- Chen, S. X., Guo, B. and Qiu, Y. (2022). Global Test and Signal Identification for Two-sample Covariances via Multi-level Thresholding. *Journal of Econometrics*.
+- Chen, S. X., Guo, B. and Qiu, Y. (2022). Global Test and Signal Identification for Two-sample Covariances via Multi-level Thresholding. *Journal of Econometrics*. [Code](https://github.com/yumouqiu/MTT-2SampleCov)
 
 - Hu, H. and Qiu, Y. (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*. [Code](https://github.com/yumouqiu/RRNR)
 
