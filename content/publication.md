@@ -1,16 +1,30 @@
 ---
 title: "Publication and manuscript"
 slug: publication
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ## Selected publication
 
 **Statistical metholody**
 
-- Hu, H. and Qiu, Y. (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*. [Code](https://github.com/yumouqiu/RRNR)
+- Qiu, Y., Sun, J. and Zhou, X. H. (2023). Unveiling the Unobservable: Causal Inference on Multiple Derived Outcomes. *The Journal of the American Statistical Association: Theory and Methods*.
 
-- Qiu, Y. and Zhou, X. H. (2021). [Inference on Multi-level Brain Connectivities based on fMRI Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1917417). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://github.com/yumouqiu/multi-level-partial-correlation)
+- Chen, S. X., Qiu, Y. and Zhang, S. (2023). Sharp Optimality for High Dimensional Covariance Testing. *The Annals of Statistics*.
+
+- Chen, S. X., Guo, B. and Qiu, Y. (2023). [Testing and Signal Identification for Two-sample High-dimensional Covariances via Multi-level Thresholding](https://www.sciencedirect.com/science/article/abs/pii/S0304407622001944). *Journal of Econometrics*, **235** 1337-1354. [Code](https://github.com/yumouqiu/TwoSample-Test-Cov)
+
+- Zhang, S., Chen, S. X. and Qiu, Y. (2023). [Mean Tests for High-Dimensional Time Series](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0147_na.pdf). *Statistica Sinica*.
+
+- Lee, H., Qiu, Y., Carriquiry, A. and Ommen, D. (2023). Density-based Matching Rule: Optimality, Estimation, and Application in Forensic Problems. *The Annals of Applied Statistics*.
+
+- Hu, H. and Qiu, Y. (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*, **79** 1173-1186. [Code](https://github.com/yumouqiu/RRNR)
+
+- Qiu, Y. and Zhou, X. H. (2022). [Inference on Multi-level Brain Connectivities based on fMRI Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1917417). *The Journal of the American Statistical Association: Theory and Methods*, **117** 2268-2282. [Code](https://github.com/yumouqiu/multi-level-partial-correlation)
+
+- Vu, T., Xu, Y., Qiu, Y. and Powers, R. (2022). [Shifting-corrected Regularized Regression for H NMR Metabolomics Identification](https://academic.oup.com/biostatistics/article/24/1/140/6583312). *Biostatistics*, **24** 140-160.
 
 - Qiu, Y., Tao, J. and Zhou, X. H. (2021). [Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12469). *Journal of the Royal Statistical Society: Series B*, **83** 1016-1043. [Code](https://github.com/yumouqiu/HD-LCSTE)
 
@@ -33,6 +47,8 @@ output: pdf_document
 
 **Plant science**
 
+- Guo, X., Qiu, Y., Nettleton, D. and Schnable, P. S. (2023). [High-Throughput Field Plant Phenotyping: A Self-Supervised Sequential CNN Model to Segment Overlapping Plants](https://spj.science.org/doi/10.34133/plantphenomics.0052), *Plant Phenomics*, **5** Article ID 0052.
+
 - Guo, X., Qiu, Y., Nettleton, D., Yeh, C.-T., Zheng, Z., Hey, S. and Schnable, P. S. (2021). KAT4IA: K-Means Assisted Training for Image Analysis of Field-Grown Plant Phenotypes. *Plant Phenomics*, Article ID 9805489. [Code](https://github.com/xingcheg/Plant-Traits-Extraction)
 
 - Admas, J., Qiu, Y., Posadas, L., Eskridge, K. and Graef, G. (2021). Phenotypic Trait Extraction of Soybean Plants Using Deep Convolutional Neural Networks with Transfer Learning. *Big Data and Information Analytics*, **6** 26–40.  [Code](https://github.com/jasonradams47/SoybeanTraitPrediction)
@@ -51,9 +67,11 @@ output: pdf_document
 
 **COVID-19**
 
-- Zhu, Y., Gu, J., Qiu, Y. and Chen, S. X. (2022). [Real-World COVID-19 Vaccine Protection Rates against Infection in the Delta and Omicron Eras](https://www.medrxiv.org/content/10.1101/2022.09.01.22279492v1.full.pdf).
+- Zhu, Y., Gu, J., Qiu, Y. and Chen, S. X. (2023). [Estimating COVID-19 Vaccine Efficacy via Dynamic Epidemiological Models--A Study of Ten Countries](https://www.medrxiv.org/content/10.1101/2022.08.08.22278571v1.full.pdf). *The Annals of Applied Statistics*.
 
-- Zhu, Y., Gu, J., Qiu, Y. and Chen, S. X. (2022). [Estimating COVID-19 Vaccine Efficacy via  Dynamic Epidemiological Models--A Study of Ten Countries](https://www.medrxiv.org/content/10.1101/2022.08.08.22278571v1.full.pdf).
+- Zhu, Y., Gu, J., Qiu, Y. and Chen, S. X. (2023). [Real-World COVID-19 Vaccine Protection Rates against Infection in the Delta and Omicron Eras](https://spj.science.org/doi/10.34133/research.0099). *Research*, **6**, Article ID 0099.
+
+- Gu, J., Chen, S. X., Dong, Q. and Qiu, Y. (2021). The Effect of Population Migration and Wuhan Lockdown on the Control of COVID-19 Based on vSEIdRm Model. *Statistical Research*, **38** 115-127.
 
 - Gu, J., Yan, H., Huang, Y., Zhu, Y., Sun, H., Zhang, X., Wang, Y., Qiu, Y. and Chen, S. X. (2021). [Better Strategies for Containing COVID-19 Pandemic--A Study of 25 Countries via a vSIADR Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8300607/pdf/rspa.2020.0440.pdf). *Proceedings of the Royal Society A*, **477** No. 2248.
 
@@ -65,15 +83,19 @@ output: pdf_document
 
 ## Manuscript
 
-- Hu, H. and Qiu, Y. (2022). Rank-based Inference for Conditional Independence Graph with Missing Values. 
+- Qiu, Y. and Guo, B. (2023). Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model.
 
-- Guo, X., Qiu, Y., Nettleton, D. and Schnable, P. S. (2022). High-Throughput Field Plant Phenotyping: A Self-Supervised Sequential CNN Model to Segment Overlapping Plants. 
+- Qiu, Y. and Gu, Y. (2023). F Statistics for High-Dimensional Inference of Linear Model.
 
-- Lee, H., Qiu, Y., Carriquiry, A. and Ommen, D. (2022). Optimal Matching Rule with Application in Forensic Science. 
+- He, J., Qiu, Y. and Zhou, X. H. (2023). Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression. 
 
-- Zhang, S., Chen, S. X. and Qiu, Y. (2021). Two-Sample Mean Tests for High-Dimensional Time Series.
+- Hu, H. and Qiu, Y. (2023). Rank-based Inference for Conditional Independence Graph with Missing Values.
 
-- Qiu, Y. and Gu, Y. (2021). Residual Refitting Inference for High-Dimensional Linear Regression Models. 
+- Qiao, Y., Jubery, T., Schnable, P. S., Ganapathysubramanian, B. and Qiu, Y.* (2023). A Systematic Error Cleaning and Correction Pipeline for Field High-Throughput Phenotyping.
+
+- Wang, H., Wang, C., Yin, Y., Guo, H., Qiu, Y. and Liu, P. (2023). Constructing Gene Networks by Partial Correlation Graphs with Information Incorporation.
+
+- Qi, Y., Qiu, Y. and Liu, P. (2022). Selective Inference Perspective of Score-based Permutation Test for Canonical Correlation Analysis.
 
 - Li, J., Qiu, Y. and Li, L. (2020). [A Neighborhood-Assisted Hotelling Test for High-Dimensional Means](https://arxiv.org/abs/1712.01798).
 
