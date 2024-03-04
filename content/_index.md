@@ -4,9 +4,13 @@ title: "Home"
 
 <img src="https://faculty.sites.iastate.edu/yumouqiu/files/styles/profile_picture/public/2018-11/Yumou_1.JPG?itok=YznaJy5l" style="max-width:25%;min-width:40px;float:right;padding-left:10px;" alt="Yumou Qiu's picture" />
 
-**Yumou Qiu** is an associate  professor in Statistics at Iowa State University.
+**Yumou Qiu** is an associate professor in Statistics at Peking University.
 
 **Contact information**  
+[Center for Statistical Science](https://www.stat-center.pku.edu.cn/index.htm)
+Peking University
+Email: <qiuyumou@math.pku.edu.cn>
+
 [Department of Statistics](https://www.stat.iastate.edu)  							     
 Iowa State University 						
 Ames, IA, 50011, USA  
@@ -23,6 +27,7 @@ Email: <yumouqiu@iastate.edu>
 
 ### Experience
 
-2022 – present  Department of Statistics, Iowa State University,  Associate Professor  
+2023 - present &nbsp;&nbsp; School of Mathematical Sciences and Center for Statistical Science, Peking University, Associate Professor 
+2022 – 2023 &nbsp;&nbsp; Department of Statistics, Iowa State University,  Associate Professor  
 2018 – 2022 &nbsp;&nbsp; Department of Statistics, Iowa State University,  Assistant Professor  
 2014 – 2018	&nbsp;&nbsp; Department of Statistics, University of Nebraska Lincoln,   Assistant Professor
