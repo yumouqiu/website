@@ -10,7 +10,7 @@ title: "Home"
 School of Mathematical Sciences and [Center for Statistical Science](https://www.stat-center.pku.edu.cn/index.htm)   
 Peking University  
 Email: <qiuyumou@math.pku.edu.cn>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <yumouqiu@iastate.edu>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <yumouqiu@iastate.edu>
 
 ### Education
 
