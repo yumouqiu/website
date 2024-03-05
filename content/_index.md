@@ -7,14 +7,10 @@ title: "Home"
 **Yumou Qiu** is an associate professor in Statistics at Peking University.
 
 **Contact information**  
-[Center for Statistical Science](https://www.stat-center.pku.edu.cn/index.htm)
-Peking University
-Email: <qiuyumou@math.pku.edu.cn>
-
-[Department of Statistics](https://www.stat.iastate.edu)  							     
-Iowa State University 						
-Ames, IA, 50011, USA  
-Email: <yumouqiu@iastate.edu>
+School of Mathematical Sciences and [Center for Statistical Science](https://www.stat-center.pku.edu.cn/index.htm)   
+Peking University  
+Email: <qiuyumou@math.pku.edu.cn>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <yumouqiu@iastate.edu>
 
 ### Education
 
@@ -27,7 +23,7 @@ Email: <yumouqiu@iastate.edu>
 
 ### Experience
 
-2023 - present &nbsp;&nbsp; School of Mathematical Sciences and Center for Statistical Science, Peking University, Associate Professor 
-2022 – 2023 &nbsp;&nbsp; Department of Statistics, Iowa State University,  Associate Professor  
-2018 – 2022 &nbsp;&nbsp; Department of Statistics, Iowa State University,  Assistant Professor  
-2014 – 2018	&nbsp;&nbsp; Department of Statistics, University of Nebraska Lincoln,   Assistant Professor
+2023 – present &nbsp;&nbsp; School of Mathematical Sciences and Center for Statistical Science, Peking University, Associate Professor  
+2022 – 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Department of Statistics](https://www.stat.iastate.edu), Iowa State University,  Associate Professor  
+2018 – 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Department of Statistics](https://www.stat.iastate.edu), Iowa State University,  Assistant Professor  
+2014 – 2018	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Statistics, University of Nebraska Lincoln,   Assistant Professor
