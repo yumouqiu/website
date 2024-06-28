@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-<img src="https://github.com/yumouqiu/website/blob/master/pictures/Yumou-1A.jpg" style="max-width:25%;min-width:40px;float:right;padding-left:10px;" alt="Yumou Qiu's picture" />
+<img src="https://github.com/yumouqiu/website/blob/master/pictures/Yumou-1A.jpg?raw=true" style="max-width:25%;min-width:40px;float:right;padding-left:10px;" alt="Yumou Qiu's picture" />
 
 **Yumou Qiu** is an associate professor in Statistics at Peking University.
 
