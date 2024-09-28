@@ -10,7 +10,9 @@ output:
 
 **Statistical metholody**
 
-- Qiu, Y. and Guo, B. (204). Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model. *Journal of the Royal Statistical Society: Series B*.
+- Qiu, Y. and Gu, Y. (2024). F Statistics for High-Dimensional Inference of Linear Model. *Bernoulli Journal*.
+
+- Qiu, Y. and Guo, B. (2024). [Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae029/7637774?login=false). *Journal of the Royal Statistical Society: Series B*.
 
 - Wang, H., Qiu, Y.*, Yin, Y., Guo, H., and Liu, P. (2023). [Information-incorporated Gene Network Construction with FDR Control](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae125/7617834?login=false). *Bioinformatics*. [Package](https://cran.r-project.org/package=PCGII) 
 
@@ -89,11 +91,13 @@ output:
 
 ## Manuscript
 
-- Qiu, Y. and Gu, Y. (2024). F Statistics for High-Dimensional Inference of Linear Model.
+- Kwon, Y., Kim, J. K. and Qiu, Y. (2024). Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling.
+
+- Cho, S., Kim, J. K. and Qiu, Y. (2024). Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse. 
 
 - He, J., Qiu, Y. and Zhou, X. H. (2024). Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression. 
 
-- Hu, H. and Qiu, Y. (2023). Rank-based Inference for Conditional Independence Graph with Missing Values.
+- Hu, H. and Qiu, Y. (2024). Rank-based Inference for Conditional Independence Graph with Missing Values.
 
 - Qiao, Y., Jubery, T., Schnable, P. S., Ganapathysubramanian, B. and Qiu, Y.* (2023). A Systematic Error Cleaning and Correction Pipeline for Field High-Throughput Phenotyping.
 
