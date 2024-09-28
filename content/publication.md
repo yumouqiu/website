@@ -93,6 +93,10 @@ output:
 
 - Xia, X. and Qiu, Y. (2024). Multiply Robust Inference of Average Treatment Effects for High-dimensional Data.
 
+- Qiu, J., Chen, S. X. and Qiu, Y. (2024). Beyond Detection Boundary: Minimax Deficiency for Two-sample Mean Tests in High Dimensions.
+
+- Qiu, Y., Tao, J. and Xia, X. (2024). Uniform Inference for Local Conditional Quantile Treatment Effect Curve with High-Dimensional Covariates. 
+
 - Kwon, Y., Kim, J. K. and Qiu, Y. (2024). Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling.
 
 - Cho, S., Kim, J. K. and Qiu, Y. (2024). Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse. 
