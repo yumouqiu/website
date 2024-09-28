@@ -91,6 +91,8 @@ output:
 
 ## Manuscript
 
+- Xia, X. and Qiu, Y. (2024). Multiply Robust Inference of Average Treatment Effects for High-dimensional Data.
+
 - Kwon, Y., Kim, J. K. and Qiu, Y. (2024). Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling.
 
 - Cho, S., Kim, J. K. and Qiu, Y. (2024). Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse. 
