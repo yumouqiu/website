@@ -10,13 +10,27 @@ output:
 
 **Statistical metholody**
 
-- Qiu, Y. and Gu, Y. (2024). F Statistics for High-Dimensional Inference of Linear Model. *Bernoulli Journal*.
+- Sun, B., Yao, Y., Qiu, Y.* and Zhang, K. (2025). A Sample Efficient Conditional Independence Test in the Presence of Discretization. *ICML*.
 
-- Qiu, Y. and Guo, B. (2024). [Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae029/7637774?login=false). *Journal of the Royal Statistical Society: Series B*.
+- Dong, X., Ng, I., Sun, B., Dai, H., Hao, G.-Y. Fan, S., Spirtes, P. Qiu, Y. and Zhang, K. (2025). Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data. *ICML*.
 
-- Wang, H., Qiu, Y.*, Yin, Y., Guo, H., and Liu, P. (2023). [Information-incorporated Gene Network Construction with FDR Control](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae125/7617834?login=false). *Bioinformatics*. [Package](https://cran.r-project.org/package=PCGII) 
+- Sun, B., Yao, Y., Hao, H.-Y., Qiu, Y.* and Zhang, K. (2025). A Conditional Independence Test in the Presence of Discretization. *ICLR*.
 
-- Qiu, Y., Sun, J. and Zhou, X. H. (2023). [Unveiling the Unobservable: Causal Inference on Multiple Derived Outcomes](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252135). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://github.com/jiaruisun98/corr-causal)
+- Hu, H. and Qiu, Y.* (2025). Rank-based Inference for Conditional Independence Graph with Missing Values. *Accepted by Statistical Analysis and Data Mining*.
+
+- He, J., Qiu, Y.* and Zhou, H. (2025). Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression. *Accepted by Biometrics*.
+
+- Cho, S., Kim, J. K. and Qiu, Y.* (2025). [Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse](https://academic.oup.com/biometrics/article/81/2/ujaf044/8120013?login=false). *Accepted by Biometrics*.
+
+- Qiu, Y.* and Gu, Y. (2025). [F Statistics for High-Dimensional Inference of Linear Model](http://dx.doi.org/10.3150/24-BEJ1811). *Bernoulli Journal*, **31** 2434-2458.
+
+- Qiu, Y.* and Guo, B. (2024). [Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae029/7637774?login=false). *Journal of the Royal Statistical Society: Series B*, **86** 1221-1242.
+
+- Lee, H., Qiu, Y.*, Carriquiry, A. and Ommen, D. (2024). [Density-based Matching Rule: Optimality, Estimation, and Application in Forensic Problems](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Density-based-matching-rule--Optimality-estimation-and-application-in/10.1214/23-AOAS1812.short). *The Annals of Applied Statistics*, **18** 770-793. [Code](https://projecteuclid.org/journals/supplementalcontent/10.1214/23-AOAS1812/aoas1812suppb.zip)
+
+- Wang, H., Qiu, Y.*, Yin, Y., Guo, H., and Liu, P. (2024). [Information-incorporated Gene Network Construction with FDR Control](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae125/7617834?login=false). *Bioinformatics*, **40** btae125. [Package](https://cran.r-project.org/package=PCGII) 
+
+- Qiu, Y., Sun, J. and Zhou, X. H. (2024). [Unveiling the Unobservable: Causal Inference on Multiple Derived Outcomes](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2252135). *The Journal of the American Statistical Association: Theory and Methods*, **119** 2178-2189. [Code](https://github.com/jiaruisun98/corr-causal)
 
 - Chen, S. X., Qiu, Y.* and Zhang, S. (2023). [Sharp Optimality for High Dimensional Covariance Testing](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-5/Sharp-optimality-for-high-dimensional-covariance-testing-under-sparse-signals/10.1214/23-AOS2310.short). *The Annals of Statistics*, **51** 1921-1945. [Code](https://projecteuclid.org/journals/supplementalcontent/10.1214/23-AOS2310/aos2310suppb.zip)
 
@@ -24,13 +38,11 @@ output:
 
 - Zhang, S., Chen, S. X. and Qiu, Y.* (2023). [Mean Tests for High-Dimensional Time Series](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0147_na.pdf). *Statistica Sinica*.
 
-- Lee, H., Qiu, Y.*, Carriquiry, A. and Ommen, D. (2023). [Density-based Matching Rule: Optimality, Estimation, and Application in Forensic Problems](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Density-based-matching-rule--Optimality-estimation-and-application-in/10.1214/23-AOAS1812.short). *The Annals of Applied Statistics*, **18** 770-793 [Code](https://projecteuclid.org/journals/supplementalcontent/10.1214/23-AOAS1812/aoas1812suppb.zip)
+- Hu, H. and Qiu, Y.* (2023). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*, **79** 1173-1186. [Code](https://github.com/yumouqiu/RRNR)
 
-- Hu, H. and Qiu, Y.* (2022). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*, **79** 1173-1186. [Code](https://github.com/yumouqiu/RRNR)
+- Vu, T., Xu, Y., Qiu, Y. and Powers, R. (2023). [Shifting-corrected Regularized Regression for H NMR Metabolomics Identification](https://academic.oup.com/biostatistics/article/24/1/140/6583312). *Biostatistics*, **24** 140-160.
 
 - Qiu, Y. and Zhou, X. H. (2022). [Inference on Multi-level Brain Connectivities based on fMRI Data](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2021.1917417). *The Journal of the American Statistical Association: Theory and Methods*, **117** 2268-2282. [Code](https://github.com/yumouqiu/multi-level-partial-correlation)
-
-- Vu, T., Xu, Y., Qiu, Y. and Powers, R. (2022). [Shifting-corrected Regularized Regression for H NMR Metabolomics Identification](https://academic.oup.com/biostatistics/article/24/1/140/6583312). *Biostatistics*, **24** 140-160.
 
 - Qiu, Y., Tao, J. and Zhou, X. H. (2021). [Inference for Heterogeneous Treatment Effects for Observational Data with High-Dimensional Covariates](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssb.12469). *Journal of the Royal Statistical Society: Series B*, **83** 1016-1043. [Code](https://github.com/yumouqiu/HD-LCSTE)
 
@@ -52,6 +64,8 @@ output:
 
 
 **Plant science**
+
+- Kenchanmane, R., Zhang, Y., Mahboub, S., Ngu, D., Qiu, Y., Harmon, F., Schnable, J. C. and Roston, R. L. (2024). Rhythmic lipid and gene expression responses to chilling in panicoid grasses. *Journal of Experimental Botany*, **75** 5790-5804.
 
 - Guo, X., Qiu, Y.*, Nettleton, D. and Schnable, P. S. (2023). [High-Throughput Field Plant Phenotyping: A Self-Supervised Sequential CNN Model to Segment Overlapping Plants](https://spj.science.org/doi/10.34133/plantphenomics.0052), *Plant Phenomics*, **5** Article ID 0052.
 
@@ -98,12 +112,6 @@ output:
 - Qiu, Y., Tao, J. and Xia, X. (2024). Uniform Inference for Local Conditional Quantile Treatment Effect Curve with High-Dimensional Covariates. 
 
 - Kwon, Y., Kim, J. K. and Qiu, Y. (2024). Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling.
-
-- Cho, S., Kim, J. K. and Qiu, Y. (2024). Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse. 
-
-- He, J., Qiu, Y. and Zhou, X. H. (2024). Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression. 
-
-- Hu, H. and Qiu, Y. (2024). Rank-based Inference for Conditional Independence Graph with Missing Values.
 
 - Qiao, Y., Jubery, T., Schnable, P. S., Ganapathysubramanian, B. and Qiu, Y.* (2023). A Systematic Error Cleaning and Correction Pipeline for Field High-Throughput Phenotyping.
 
