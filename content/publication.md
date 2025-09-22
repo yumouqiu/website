@@ -10,6 +10,8 @@ output:
 
 **Statistical metholody**
 
+- Kwon, Y., Kim, J. K. and Qiu, Y.* (2025). [Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2537452). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://cran.r-project.org/web/packages/GECal/index.html)
+
 - Sun, B., Yao, Y., Qiu, Y.* and Zhang, K. (2025). A Sample Efficient Conditional Independence Test in the Presence of Discretization. *ICML*.
 
 - Dong, X., Ng, I., Sun, B., Dai, H., Hao, G.-Y. Fan, S., Spirtes, P. Qiu, Y. and Zhang, K. (2025). Permutation-based Rank Test in the Presence of Discretization and Application in Causal Discovery with Mixed Data. *ICML*.
@@ -17,8 +19,6 @@ output:
 - Sun, B., Yao, Y., Hao, H.-Y., Qiu, Y.* and Zhang, K. (2025). A Conditional Independence Test in the Presence of Discretization. *ICLR*.
 
 - Hu, H. and Qiu, Y.* (2025). Rank-based Inference for Conditional Independence Graph with Missing Values. *Accepted by Statistical Analysis and Data Mining*.
-
-- He, J., Qiu, Y.* and Zhou, H. (2025). Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression. *Accepted by Biometrics*.
 
 - Cho, S., Kim, J. K. and Qiu, Y.* (2025). [Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse](https://academic.oup.com/biometrics/article/81/2/ujaf044/8120013?login=false). *Accepted by Biometrics*.
 
@@ -110,8 +110,6 @@ output:
 - Qiu, J., Chen, S. X. and Qiu, Y. (2024). Beyond Detection Boundary: Minimax Deficiency for Two-sample Mean Tests in High Dimensions.
 
 - Qiu, Y., Tao, J. and Xia, X. (2024). Uniform Inference for Local Conditional Quantile Treatment Effect Curve with High-Dimensional Covariates. 
-
-- Kwon, Y., Kim, J. K. and Qiu, Y. (2024). Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling.
 
 - Qiao, Y., Jubery, T., Schnable, P. S., Ganapathysubramanian, B. and Qiu, Y.* (2023). A Systematic Error Cleaning and Correction Pipeline for Field High-Throughput Phenotyping.
 
