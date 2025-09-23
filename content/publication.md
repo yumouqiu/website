@@ -10,6 +10,8 @@ output:
 
 **Statistical metholody**
 
+- Lu, Q., Chen, S. X. and Qiu, Y. (2025). [Versatile Differentially Private Learning for General Loss Functions](https://arxiv.org/abs/2501.15127). *Accepted by The Annals of Statistics*.
+
 - Kwon, Y., Kim, J. K. and Qiu, Y.* (2025). [Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2537452). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://cran.r-project.org/web/packages/GECal/index.html)
 
 - Sun, B., Yao, Y., Qiu, Y.* and Zhang, K. (2025). A Sample Efficient Conditional Independence Test in the Presence of Discretization. *ICML*.
