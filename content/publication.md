@@ -10,9 +10,9 @@ output:
 
 **Statistical metholody**
 
-- Sun, H.-X., Chen, S. X. and Qiu, Y.* (2026). Localization Estimator for High-dimensional Tensor Covariance Matrices. *Accepted by The Annals of Statistics*.
+- Sun, H.-X., Chen, S. X. and Qiu, Y.* (2026). [Localization Estimator for High-dimensional Tensor Covariance Matrices](https://arxiv.org/abs/2601.06989). *Accepted by The Annals of Statistics*.
 
-- Su, W. and Qiu, Y.* (2026). High-dimensional Clustering and Signal Recovery under Block Signal. *Accepted by The Journal of the American Statistical Association*.
+- Su, W. and Qiu, Y.* (2026). [High-dimensional Clustering and Signal Recovery under Block Signal](https://arxiv.org/abs/2504.08332). *Accepted by The Journal of the American Statistical Association*.
 
 - Su, W., Li, H., Jing, Z., Qiu, Y.* and Chen, S. X. (2026). Physics-guided Statistical Data Fusion for Reconstructing 3D Current Fields of Oceanic Eddies. *Accepted by The Journal of the American Statistical Association*.
 
