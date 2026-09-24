@@ -10,9 +10,23 @@ output:
 
 **Statistical metholody**
 
-- Lu, Q., Chen, S. X. and Qiu, Y. (2025). [Versatile Differentially Private Learning for General Loss Functions](https://arxiv.org/abs/2501.15127). *Accepted by The Annals of Statistics*.
+- Sun, H.-X., Chen, S. X. and Qiu, Y.* (2026). Localization Estimator for High-dimensional Tensor Covariance Matrices. *Accepted by The Annals of Statistics*.
 
-- Kwon, Y., Kim, J. K. and Qiu, Y.* (2025). [Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2537452). *The Journal of the American Statistical Association: Theory and Methods*. [Code](https://cran.r-project.org/web/packages/GECal/index.html)
+- Su, W. and Qiu, Y.* (2026). High-dimensional Clustering and Signal Recovery under Block Signal. *Accepted by The Journal of the American Statistical Association*.
+
+- Su, W., Li, H., Jing, Z., Qiu, Y.* and Chen, S. X. (2026). Physics-guided Statistical Data Fusion for Reconstructing 3D Current Fields of Oceanic Eddies. *Accepted by The Journal of the American Statistical Association*.
+
+- Qiu, J., Chen, S. X. and Qiu, Y. (2026). Optimally Adaptive Test for High-dimensional Hypotheses via Minimax Deficiency. *Accepted by The Journal of the American Statistical Association*.
+
+- Xia, X. and Qiu, Y.* (2026). [Multiply Robust Inference of Average Treatment Effects by High-dimensional Empirical Likelihood](https://academic.oup.com/biometrics/article-abstract/82/3/ujag149/8788688?login=false). *Biometrics*, **82** ujag149.
+
+- Lu, Q., Chen, S. X. and Qiu, Y. (2026). [Versatile Differentially Private Learning for General Loss Functions](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-2/Versatile-differentially-private-learning-for-general-loss-functions/10.1214/25-AOS2583.short). *The Annals of Statistics*, **54** 692-717.
+
+- Kwon, Y., Kim, J. K. and Qiu, Y. (2026). [Generalized Entropy Calibration for Analyzing Voluntary Survey Data](https://academic.oup.com/biometrics/article/82/1/ujag041/8524673?login=false). *Biometrics*, **82** ujag041.
+
+- Zhang, B., Hu, J., Zhang, Z., Qiu, Y. and Chen, Y. (2026). CHIP: Cost-efficient High-Dimensional Inference for Generalized Linear Models with Subsampling and One-step Polishing. *Accepted by The Annals of Applied Statistics*.
+
+- Kwon, Y., Kim, J. K. and Qiu, Y.* (2025). [Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2537452). *The Journal of the American Statistical Association: Theory and Methods*, **121** 574–584. [Code](https://cran.r-project.org/web/packages/GECal/index.html)
 
 - Sun, B., Yao, Y., Qiu, Y.* and Zhang, K. (2025). A Sample Efficient Conditional Independence Test in the Presence of Discretization. *ICML*.
 
@@ -20,11 +34,17 @@ output:
 
 - Sun, B., Yao, Y., Hao, H.-Y., Qiu, Y.* and Zhang, K. (2025). A Conditional Independence Test in the Presence of Discretization. *ICLR*.
 
-- Hu, H. and Qiu, Y.* (2025). Rank-based Inference for Conditional Independence Graph with Missing Values. *Accepted by Statistical Analysis and Data Mining*.
+- Du, T., Zhang, Y., Su, W., Jing, Z., Chen, Z., Qiu, Y., Zhang, H., Yang, S. and Ma, W. (2025). Three-Dimensional Observations of a Mesoscale Eddy in the Kuroshio Extension Based on Multiple Platforms. *Scientific Data*, **12** 2013.
 
-- Cho, S., Kim, J. K. and Qiu, Y.* (2025). [Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse](https://academic.oup.com/biometrics/article/81/2/ujaf044/8120013?login=false). *Accepted by Biometrics*.
+- Hu, H. and Qiu, Y.* (2025). Rank-based Inference for Conditional Independence Graph with Missing Values. *Statistical Analysis and Data Mining*, **18** e70028.
+
+- He, J., Qiu, Y.* and Zhou, H. (2025). [Positive-Definite Regularized Estimation for High-Dimensional Covariance on Scalar Regression](https://academic.oup.com/biometrics/article/81/1/ujaf017/8063831?login=false). *Biometrics*, **81** ujaf017.
+
+- Cho, S., Kim, J. K. and Qiu, Y. (2025). [Multiple Bias Calibration for Valid Statistical Inference under Nonignorable Nonresponse](https://academic.oup.com/biometrics/article/81/2/ujaf044/8120013?login=false). *Biometrics*, **81** ujaf044.
 
 - Qiu, Y.* and Gu, Y. (2025). [F Statistics for High-Dimensional Inference of Linear Model](http://dx.doi.org/10.3150/24-BEJ1811). *Bernoulli Journal*, **31** 2434-2458.
+
+- Zhang, S., Chen, S. X. and Qiu, Y.* (2025). [Mean Tests for High-Dimensional Time Series](https://www3.stat.sinica.edu.tw/statistica//J35N1/J35N109/J35N109.html). *Statistica Sinica*, **35** 171-201.
 
 - Qiu, Y.* and Guo, B. (2024). [Minimax Detection Boundary and Sharp Optimal Test for Gaussian Graphical Model](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae029/7637774?login=false). *Journal of the Royal Statistical Society: Series B*, **86** 1221-1242.
 
@@ -37,8 +57,6 @@ output:
 - Chen, S. X., Qiu, Y.* and Zhang, S. (2023). [Sharp Optimality for High Dimensional Covariance Testing](https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-5/Sharp-optimality-for-high-dimensional-covariance-testing-under-sparse-signals/10.1214/23-AOS2310.short). *The Annals of Statistics*, **51** 1921-1945. [Code](https://projecteuclid.org/journals/supplementalcontent/10.1214/23-AOS2310/aos2310suppb.zip)
 
 - Chen, S. X., Guo, B. and Qiu, Y.* (2023). [Testing and Signal Identification for Two-sample High-dimensional Covariances via Multi-level Thresholding](https://www.sciencedirect.com/science/article/abs/pii/S0304407622001944). *Journal of Econometrics*, **235** 1337-1354. [Code](https://github.com/yumouqiu/TwoSample-Test-Cov)
-
-- Zhang, S., Chen, S. X. and Qiu, Y.* (2023). [Mean Tests for High-Dimensional Time Series](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0147_na.pdf). *Statistica Sinica*.
 
 - Hu, H. and Qiu, Y.* (2023). [Inference for Nonparanormal Partial Correlation via Regularized Rank-based Nodewise Regression](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13624). *Biometrics*, **79** 1173-1186. [Code](https://github.com/yumouqiu/RRNR)
 
@@ -107,17 +125,30 @@ output:
 
 ## Manuscript
 
-- Xia, X. and Qiu, Y. (2024). Multiply Robust Inference of Average Treatment Effects for High-dimensional Data.
+- Zhan, H., Kim, J. K. and Qiu, Y.* (2026). Multi-source Learning for Target Population by High-dimensional Calibration. 
 
-- Qiu, J., Chen, S. X. and Qiu, Y. (2024). Beyond Detection Boundary: Minimax Deficiency for Two-sample Mean Tests in High Dimensions.
+- Qiu, Y.*, Tao, J. and Xia, X. (2026). Uniform Inference for Local Conditional Quantile Treatment Effect Curve with High-Dimensional Covariates. 
 
-- Qiu, Y., Tao, J. and Xia, X. (2024). Uniform Inference for Local Conditional Quantile Treatment Effect Curve with High-Dimensional Covariates. 
+- Zhu, Y., Wang, H., Chu, H., Qiu, Y. and Chen, Y. (2026). One-shot Collaborative Indirect Treatment Comparisons with Multiple Distributed Single-arm Trials. 
 
-- Qiao, Y., Jubery, T., Schnable, P. S., Ganapathysubramanian, B. and Qiu, Y.* (2023). A Systematic Error Cleaning and Correction Pipeline for Field High-Throughput Phenotyping.
+- Hu, J., Wang, Y., Wang, T., Qiu, Y., Ning, Y. and Chen, Y. (2026). Targeted Learning of Heterogeneous Sources by Informative Feature Sharing. 
+
+- Qi, Y., Liu, P. and Qiu, Y.* (2026). Integrative Contrastive Spectral Clustering for Multi-Omics Data Analysis. 
+
+- Hu, W., Zhu, Y., Zhang, B., Schuemie, M., Qiu, Y.* and Chen, Y. (2026). Multi-site Inference of Causal Effect in the Presence of Unmeasured Confounding.
+
+- Zhu, Y., Hu, W., Zhang, B., Hripcsak, G., Qiu, Y.* and Chen, Y. (2026). Robust Causal Inference for Observational Data under Residual Bias.
+
+- Sun, Y., Chen, S. X. and Qiu, Y.* (2026). Sequential Machine Learning for Data Assimilation with Parameter Estimation via Hierarchical Bayesian Optimization.
+
+- Kim, J. K., Kwon, Y. and Qiu, Y. (2026). Bregman Projection for Calibration Estimation in Survey Sampling.
+
+- Wang, H., Zhang, B., Suchard, M., Qiu, Y.* and Chen, Y. (2026). A Distributional Calibration Framework for Robust Real-World Evidence Generation.
+
+- Li, H., Ding, X., Su, W., Xiao, Z., Yuan, M., Wang, B., Du, T., Jing, Z., Qiu, Y.* and Chen, S. X. (2026). Reconstructing Four-dimensional High-resolution Features of a Mesoscale Eddy with Multi-glider Observations.
+
+- Lee, H., Carriquiry, A. and Qiu, Y.* (2026). A General Framework for Source-Matching Decisions Based on Classification Probabilities.
 
 - Qi, Y., Qiu, Y. and Liu, P. (2022). Selective Inference Perspective of Score-based Permutation Test for Canonical Correlation Analysis.
 
 - Li, J., Qiu, Y. and Li, L. (2020). [A Neighborhood-Assisted Hotelling Test for High-Dimensional Means](https://arxiv.org/abs/1712.01798).
-
-
-  
