@@ -18,8 +18,6 @@ output:
 
 - Qiu, J., Chen, S. X. and Qiu, Y. (2026). Optimally Adaptive Test for High-dimensional Hypotheses via Minimax Deficiency. *Accepted by The Journal of the American Statistical Association*.
 
-- Xia, X. and Qiu, Y.* (2026). [Multiply Robust Inference of Average Treatment Effects by High-dimensional Empirical Likelihood](https://academic.oup.com/biometrics/article-abstract/82/3/ujag149/8788688?login=false). *Biometrics*, **82** ujag149.
-
 - Lu, Q., Chen, S. X. and Qiu, Y. (2026). [Versatile Differentially Private Learning for General Loss Functions](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-2/Versatile-differentially-private-learning-for-general-loss-functions/10.1214/25-AOS2583.short). *The Annals of Statistics*, **54** 692-717.
 
 - Kwon, Y., Kim, J. K. and Qiu, Y. (2026). [Generalized Entropy Calibration for Analyzing Voluntary Survey Data](https://academic.oup.com/biometrics/article/82/1/ujag041/8524673?login=false). *Biometrics*, **82** ujag041.
